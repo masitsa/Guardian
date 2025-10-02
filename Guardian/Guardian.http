@@ -1,0 +1,6 @@
+@Guardian_HostAddress = http://localhost:5209
+
+GET {{Guardian_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
